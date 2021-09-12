@@ -1,10 +1,7 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
-
 # MONCoin RPC
 
 [![NPM](https://nodei.co/npm/moncoin-rpc.png?downloads=true&stars=true)](https://nodei.co/npm/moncoin-rpc/)
 
-![Prerequisite](https://img.shields.io/badge/node-%3E%3D8-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://js-rpc.turtlecoin.dev) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Kulteam/moncoin-rpc-js/graphs/commit-activity) [![License: GPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-yellow.svg)](https://github.com/Kulteam/moncoin-rpc-js/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/_TurtleCoin.svg?style=social)](https://twitter.com/_TurtleCoin)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/moncoin-rpc-js.png?branch=master)](https://travis-ci.org/turtlecoin/moncoin-rpc-js) [![Build Status](https://ci.appveyor.com/api/projects/status/github/brandonlehmann/moncoin-rpc?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/moncoin-rpc/branch/master)
@@ -76,12 +73,12 @@ const wallet = new WalletAPI({
 
 ## Documentation
 
-You can find the full documentation for this library [here](https://js-rpc.turtlecoin.dev)
+You can find the full documentation for this library [here](https://moncoin.io)
 
 ## License
 
 ```
-Copyright (C) 2018-2019 Brandon Lehmann, The MONCoin and TurtleCoin Developers
+Copyright (C) 2020-2021 Brandon Lehmann, The MONCoin and TurtleCoin Developers
 
 Please see the included LICENSE file for more information.
 ```
