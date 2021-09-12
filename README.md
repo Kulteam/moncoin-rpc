@@ -2,11 +2,7 @@
 
 [![NPM](https://nodei.co/npm/moncoin-rpc.png?downloads=true&stars=true)](https://nodei.co/npm/moncoin-rpc/)
 
-
-#### Master Build Status
-[![Build Status](https://travis-ci.org/turtlecoin/moncoin-rpc-js.png?branch=master)](https://travis-ci.org/turtlecoin/moncoin-rpc-js) [![Build Status](https://ci.appveyor.com/api/projects/status/github/brandonlehmann/moncoin-rpc?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/moncoin-rpc/branch/master)
-
-This project is designed to make it very easy to interact with various RPC APIs available within the [MONCoin](https://turtlecoin.lol) Project. This entire project uses [Javascript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) to make things fast, easy, and safe.
+This project is designed to make it very easy to interact with various RPC APIs available within the [MONCoin](https://moncoin.io) Project. This entire project uses [Javascript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) to make things fast, easy, and safe.
 
 ## Package Upgrade Warning
 
